@@ -33,4 +33,4 @@ Finds the optimal hyperplane to maximize the margin between classes in a high-di
 
 e) K-Nearest Neighbors (KNN)
 Classifies a sample by majority vote of its k closest neighbors in feature space. It's simple, non-parametric, and adapts to any data distribution without assumptions.
-Classifies a sample by majority vote of its k closest neighbors in feature space. It's simple, non-parametric, and adapts to any data distribution without assumptions.
+
